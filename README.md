@@ -1,6 +1,6 @@
 # Game-of-Life
 
-Game of Life in C++
+Game of Life in C++ using SFML
 
 In conf file,
 
