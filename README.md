@@ -13,3 +13,5 @@ In conf file,
 4.refresh frequency
 
 Press space to pause or unpause.
+
+![alt text](https://github.com/patwu22/Game-of-Life/blob/main/pic.png)
